@@ -1,0 +1,31 @@
+{
+  "name": "mambol",
+  "version": "1.0.0",
+  "description": "Mambol is a awesome theme for WordPress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reedyseth/mambol-theme.git"
+  },
+  "keywords": [
+    "theme",
+    "wordpress",
+    "css",
+    "html",
+    "php"
+  ],
+  "author": "Reedyseth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Reedyseth/mambol-theme/issues"
+  },
+  "homepage": "https://github.com/Reedyseth/mambol-theme#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-pug": "0.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
